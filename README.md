@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Varsha Kumari 👋
+Backend Developer | Node.js | NestJS | TypeScript
 
-<!--
-**varsha766/varsha766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer with 4+ years of experience building scalable backend applications, REST APIs, authentication systems, and microservices.
 
-Here are some ideas to get you started:
+About Me
+- 💻 Working primarily with Node.js and NestJS.
+- 🚀 Experienced in developing REST APIs and microservices.
+- 🔐 Experience with authentication and authorization systems.
+- 🗄️ Working with MongoDB, MySQL and Redis.
+- ☁️ Familiar with AWS and Docker.
+- 🌱 Currently learning GraphQL.
+Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js · NestJS · Express.js · TypeScript · JavaScript · MongoDB · MySQL · Redis · BullMQ · Docker · AWS · Git · REST APIs
+
+Connect with Me
+
+GitHub | LinkedIn
