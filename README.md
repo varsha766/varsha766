@@ -16,4 +16,4 @@ Node.js · NestJS · Express.js · TypeScript · JavaScript · MongoDB · MySQL 
 
 Connect with Me
 
-[GitHub](github.com/varsha766)| [LinkedIn](https://www.linkedin.com/in/varsha-kumari-099887189)
+[GitHub](github.com/varsha766) | [LinkedIn](https://www.linkedin.com/in/varsha-kumari-099887189)
